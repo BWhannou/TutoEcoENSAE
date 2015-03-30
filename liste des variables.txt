@@ -1,41 +1,167 @@
-ACTPREA 
-AIDEA
+ACTPREA : activité précédente active
+AIDEA : recu aides état
+
+====================
+Caractéristiques générales
+====================
+SEXEA Sexe du créateur
+1 - Homme
+2 - Femme
+
+TAGEA Tranche d'âge du créateur à la création
+1 - Moins de 25 ans
+2 - De 25 à moins de 30 ans
+3 - De 30 à moins de 35 ans
+4 - De 35 à moins de 40 ans
+5 - De 40 à moins de 45 ans
+6 - De 45 à moins de 50 ans
+7 - 50 ans ou plus
+
+AMSA char 1 Allocataire des minima sociaux
+1 - RMI (Revenu Minimum d'Insertion)
+2 - ASS (Allocation de Solidarité Spécifique)
+3 - Ni l'un, ni l'autre
+
+COMPMA Comparaison entre l'activité de l'entreprise
+et le métier exercé précédemment
+1 - Identique
+2 - Différente
+3 - Non concerné
+
+COUPLA char 1 Vie en couple du créateur
+1 - Oui
+2 - Non
+
+DEPRACEA char 2 Département de résidence avant la
+création en 2006
+nn - Numéro de département de 01 à 99
+
 ====================   =
 diplome                =
 ====================   =
-ANDIPSA                =
-DIPLOEA
-DIPLO1A - DIPLO6A
-QUALIFA
+ANDIPSA : n'existe pas sine2006
+DIPLOEA : diplo plus élevé
+1 - Pas de diplôme
+2 - CEP, BEPC, Brevet élémentaire, Brevet des collèges
+3 - CAP/BEP
+4 - BAC technique ou professionnel
+5 - BAC généraliste
+6 - Diplôme technique de premier cycle (BTS, DEUST, DUT,...)
+7 - Diplôme universitaire ou général de premier cycle, diplômes des professions
+sociales ou de la santé, infirmier(ères)
+8 - Diplôme universitaire de deuxième cycle
+9 - Diplôme universitaire de troisième cycle
+0 - Diplôme d'ingénieur, d'une grande école
+
+DIPLO61A - DIPLO66A : obtention de diplomes en particulier
+QUALIF6A : PCS :
+1 - Cadre supérieur ou profession intellectuelle supérieure (y compris profession libérale
+salariée)
+2 - Agent de maîtrise, contremaître
+3 - Profession intermédiaire (profession médicale, représentant, enseignant, technicien)
+4 - Employé
+5 - Ouvrier
+6 - Non concerné car non salarié ou chef d'entreprise salarié
+
 ======================
-connaissance du march�
+connaissance du marché
 ======================
-CONCUA 
-CONS1A - CONS5A
+CONCUA : n'existe pas sine2006
+
+CONS1A - CONS5A : n'existe pas sine2006
 CONSA
 CONSB 
-=======================
-exp�riences pass�es
-=======================
 
 =======================
-exp�riences parall�les
+expériences passées
 =======================
- 
+
+NBCREA Nombre de créations d'entreprises
+précédentes
+0 - Aucune
+1 - 1 création
+2 - 2 créations
+3 - 3 créations ou plus
+
+TEXPROA Taille de l'entreprise où a été acquise
+l'expérience professionnelle
+1 - Moins de 10 salariés
+2 - De 10 à moins de 50 salariés
+3 - De 50 à moins de 250 salariés
+4 - 250 salariés ou plus
+5 - Sans objet
+
+=======================
+expériences parallèles
+=======================
+ AUTACT6A Exercice d'une autre activité dans une
+autre entreprise
+1 - Sans objet car sans autre activité
+2 - Dirigeant (salarié ou non)
+3 - Salarié à temps plein
+4 - Salarié à temps partiel
+
 =======================
 motivation
 =======================
-OBJECTA
-MOTIV1A - MOTIV8A
-MOTIVA
+OBJECTA : Pas dans sine2006
+
+MOT1A - MOT9A : Motivation pour faire entreprise
+
+
+MOTIVA : Pas dans sine2006
 
 
 =======================
 innovant
 =======================
-INOVA 
-INOVO1A - INOVO3A
-INOVOA
+INOV : Champ d'étude des entreprises du secteur innovant Variable de synthèse
+
+INOVC6A : Développement de concepts de vente novateurs sur le marché
+INOVM6A : Introduction de méthodes ou de procédés nouveaux de production 
+INOVP6A : Introduction de produits ou services nouveaux sur le marché 
+
+=======================
+Indicateurs de bon résultats
+=======================
+
+ETAT : Etat de l'entreprise au 30 septembre 2006
+A - Entreprise active au 30 septembre 2006
+C - Entreprise cessée au 30 septembre 2006
+
+EMBFA :
+Embauches futures (dans les 12 prochains mois)
+1 - Oui
+2 - Non
+3 - Ne sait pas
+
+NBCLIA
+Nombre de clients en 2006
+1 - 1 ou 2 clients
+2 - 3 à 10 clients
+3 - Un plus grand nombre
+4 - Un grand nombre, mais avec quelques clients importants
+
+OBJECT6A Quel est votre objectif principal ?
+1 - Essentiellement assurer votre propre emploi
+2 - Développer fortement votre entreprise en termes d'emploi
+3 - Développer fortement votre entreprise en termes d'investissement
+N - Non rempli et non redressé car opinion
+
+SAL Total des salariés au démarrage (hors
+dirigeant(s) salarié(s), hors autres cas)
+Valeurs : 'nnn' = nombre total des emplois salariés
+
+SALA Total des salariés en 2006 (hors
+dirigeant(s) salarié(s), hors autres cas)
+Valeurs : 'nnn' = nombre total des emplois salariés
+
+SALD Avec dirigeants
+SALDA
+
+
+HS car on récupère le sujet sur les compétences de l'entrepreneur.
+
 =======================
 niveau technologie
 =======================
@@ -63,4 +189,3 @@ DIRIG3A
 DIRIG4A
 DIRIGA
 
-ETAT
