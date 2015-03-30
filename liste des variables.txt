@@ -1,4 +1,66 @@
 ACTPREA 
 AIDEA
+====================   =
+diplome                =
+====================   =
+ANDIPSA                =
 DIPLOEA
+DIPLO1A - DIPLO6A
+QUALIFA
+======================
+connaissance du marché
+======================
+CONCUA 
+CONS1A - CONS5A
+CONSA
+CONSB 
+=======================
+expériences passées
+=======================
+
+=======================
+expériences parallèles
+=======================
+ 
+=======================
+motivation
+=======================
+OBJECTA
+MOTIV1A - MOTIV8A
+MOTIVA
+
+
+=======================
+innovant
+=======================
+INOVA 
+INOVO1A - INOVO3A
+INOVOA
+=======================
+niveau technologie
+=======================
+
+NET1A
+NET2A
+NET3A
+NETA
+TECHNOA
+CONT1B
+CONT2B
+CONT3B
+CONT4B
+CONT5B
+CONTB
+
+
+=======================
+codirection?
+=======================
+
+DIRIG1A
+DIRIG2A
+DIRIG3A
+DIRIG4A
+DIRIGA
+
 ETAT
