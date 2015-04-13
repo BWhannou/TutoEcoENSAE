@@ -63,15 +63,6 @@ salariée)
 5 - Ouvrier
 6 - Non concerné car non salarié ou chef d'entreprise salarié
 
-======================
-connaissance du marché
-======================
-CONCUA : n'existe pas sine2006
-
-CONS1A - CONS5A : n'existe pas sine2006
-CONSA
-CONSB 
-
 =======================
 expériences passées
 =======================
@@ -158,34 +149,3 @@ Valeurs : 'nnn' = nombre total des emplois salariés
 
 SALD Avec dirigeants
 SALDA
-
-
-HS car on récupère le sujet sur les compétences de l'entrepreneur.
-
-=======================
-niveau technologie
-=======================
-
-NET1A
-NET2A
-NET3A
-NETA
-TECHNOA
-CONT1B
-CONT2B
-CONT3B
-CONT4B
-CONT5B
-CONTB
-
-
-=======================
-codirection?
-=======================
-
-DIRIG1A
-DIRIG2A
-DIRIG3A
-DIRIG4A
-DIRIGA
-
