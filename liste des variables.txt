@@ -1,3 +1,183 @@
+#######################
+# SINE 2005
+#######################
+"AMSA" : allocataire des minima sociaux
+"ANDIPSA" : annee obtention diplome plus élevé
+"ARTISAN" : Unité artisanale
+"AUTACTA" : Exercice activité autre entreprise
+
+"AVENA[1-6]A" : Questions pdv avenir
+"AVENAA" : Point de vue sur l'avenir
+
+"CAB" : CA deuxieme enquete
+"CCA" 
+"CCB" 
+"CCDA" : Conjoint collaborateur
+
+"CDDA"     "CDDB"     "CDDDA"    "CDIA"     "CDIB"     "CDIDA"   : Emplois salariés
+
+"CJ4A" Catégorie juridique détaillée
+"CJA" Personne morale / Persone physique
+
+"CNET1A"   "CNET2A"   "CNET3A"   "CNET4A"   "CNETA" : Utilisation internet
+
+"COMPMA" Comparaison entre l'activité de l'entreprise et le métier exercé précédemment
+
+"CONCUA" Connaissance concurrence
+
+"CONS1A"   "CONS2A"  "CONS3A"   "CONS4A"   "CONS5A"   "CONSA" : Conseils plus utiles données par ....
+"CONSB" Suivi de conseils
+
+"CONT1B"   "CONT2B"   "CONT3B"   "CONT4B"   "CONT5B"   "CONTB"   Consultation internet
+
+"CONTRB" : Appartenance réseau enseigne
+
+"CREA02B" : meme dirigeant que 2002
+"CRQUI1A"  "CRQUI2A"  "CRQUI3A"  "CRQUI4A"  "CRQUI5A"  "CRQUI6A"  "CRQUIA" : Mise en place du projet seul ou avec d'autres gens
+
+ "DCES" : Date de cessation
+ 
+ "DCONSB" : Fréquence des conseils
+ "DEVNIRB" : Devenir du créateur en fonction cessation
+  
+ "DIPLO1A"  "DIPLO2A"  "DIPLO3A"  "DIPLO4A"  "DIPLO5A"  "DIPLO6A" "DIPLOA"  "DIPLOEA"  "DIPLSA"   : Diplôme du créateur
+ 
+ "DIRIG1A"  "DIRIG2A"  "DIRIG3A"  "DIRIG4A"  "DIRIGA" : Direction entreprise seul ou plusieurs
+ 
+ "DNSA"     "DNSB"     "DNSDA"  : Dirigeant non salariés 
+
+"DOMCJ15B" "DOMCJ25B" "DOMCJ35B" "DOMCJ45B" "DOMCJ5B" : Domaine de contribution du conjoint
+
+"DSA"      "DSB"      "DSDA"   : Dirigeants salariés au démarrage
+
+"DUREEA" : Envisager d'être a votre compte pour une durée x ?
+"DUREXPA" : Durée expérience précédent métier
+
+"DVPCLIB" : Prévision de développement de la clientèle
+
+"EMBFA" : Embauches futures (dans les 12 prochains mois)
+"ENTREPRI" : Champ d'étude du profil de l'entreprise
+
+"ETAT" : Etat de l'entreprise au moment de la dernière enquête
+"FILDIPSA" : Filière de formation
+
+"INFOB" : Utilisation d'un micro ordinateur 2eme enquete
+"INOVA" : Innovant ?
+"INOVO1A"  "INOVO2A"  "INOVO3A"  "INOVOA" : Innovation
+"MOTIV1A"  "MOTIV2A"  "MOTIV3A"  "MOTIV4A"  "MOTIV5A"  "MOTIV6A"  "MOTIV7A"  "MOTIV8A"  "MOTIVA"  : Motivations
+
+"NATIOA" : Nationalité du créateur
+"NBCLIA" : Nombre de clients 2002
+"NES16A"   "NES5A" : Activité entreprise en 9/5 postes
+
+"NET1A"    "NET2A"    "NET3A"    "NETA" : Accès internet
+"NOI"  : NON LISTE
+"NONSAL"  "NONSALA"  "NONSALB" : Effectif non salarié en 2002/2005/....
+
+"NOUV15B"  "NOUV25B"  "NOUV35B"  "NOUV45B"  "NOUV5B" : Nouvelle activité développée
+"NTIC"  Champ d'étude des entreprises du secteur innovant
+"OBJECTA" : Quel est votre objectif principal
+"ORGA15B"  "ORGA25B" "ORGA35B"  "ORGA5B" / orga activité commerciale
+"ORIGSINE" : Origine de l'entreprise
+
+"PARTCJ5B" : Participation conjoint
+"PARTFINA" : Part des ressources familiales dans le projet
+
+"PBPRIB"  : Problème principal
+"PBTRESB" : Probleme de trésorerie
+"POTCLI5B" : Accroissement de votre clientèle en
+"PREACTA" : Activité préalable du créateur
+"QUALIFA" : Qualification préalable du créateur (PCS avant la création)
+"QUIB"   : Terme qui vous définit le mieux (prof libérale, etc) 
+"REGA"     "REGB" :  Région d'implantation du siège de l'entreprise à la 2ème enquête
+"RELAT1A"  "RELAT2A"  "RELAT3A"  "RELAT4A"  "RELATA" : Type de relations ayant facilité la création ou le démarrage
+"REMBFB"   "REVEN1B"  "REVEN2B"  "REVEN3B" "REVEN4B"  "REVEN5B"  "REVENB" : Autres revenus que ceux de l'entreprise
+"SAL"      "SALA"     "SALB"     "SALD"     "SALDA"    "SALDB" : Total des salariés en 2002
+"SERV1A"   "SERV2A"  "SERV3A"   "SERV4A"   "SERV5A"   "SERV6A"   "SERV7A"   "SERV8A"   "SERVA" : UTilisation de services extérieurs
+"SEXEA" : Sexe du créateur
+"SINT1B"   "SINT2B"   "SINT3B"  
+"SINTB"    "SNET1A"   "SNET2A"   "SNET3A"   "SNETA" : Existence d'un site internet
+"SOUHB"   Souhait par rapport au lien à un réseau d'enseigne
+"STATUTA" : Situation immédiate avant la création
+"STBENB" : Votre relation de sous-traitant est-elle bénéfique ? 
+"STEXEA" : Exécution de travaux de sous-traitance
+"SURV1AN"  "SURV2AN" "SURV3AN" : Survie à x an
+
+"TAGEA" : Tranche d'âge du créateur à la création
+
+"TEXPROA" : Taille de l'entreprise où a été acquise l'expérience professionnelle
+
+"TOT1A"    "TOT1B"    "TOTA"     "TOTB"     "TOTD1A"   "TOTDA"    "TSAL"     "TSALA"   
+"TSALB"    "TSALD"    "TSALDA"   "TSALDB"   "TTOT1A"   "TTOT1B"   "TTOTA"    "TTOTB"    "TTOTD1A"  "TTOTDA"
+Total des emplois en 2002 (à l'exclusion des "autres cas")
+"TYPAID1A"
+"TYPAID2A" "TYPAID3A" "TYPAID4A" "TYPAIDA" Type d'aides ou exonérations publiques
+
+"TYPCREA" Origine de la création
+"TYPPB1B"  "TYPPB2B"  "TYPPB3B"  "TYPPB4B"  "TYPPB5B"  "TYPPB6B" "TYPPBB" : Type de problèmes de trésorerie
+
+"ZAIDEA" Obtention d'aides publiques
+"ZAVEN1A"  "ZAVEN1B"  "ZAVEN2A"  "ZAVEN2B"  "ZAVEN3A"  "ZAVEN3B" "ZAVEN4A"  "ZAVEN4B"  "ZAVEN5A"  "ZAVEN5B"  "ZAVEN6B"  "ZAVENB" : Point de vue sur l'avenir
+
+"ZDEMAR1B" "ZDEMAR2B" "ZDEMAR3B" "ZDEMAR4B" "ZDEMAR5B" "ZDEMAR6B" "ZDEMARB" : Types d'actions commerciales réalisées
+
+"ZDIPLOMA" : Diplôme du créateur
+"ZDUREXEB" : Durée de l'exercice financier (en mois)
+"ZEMBFB" : Embauches futures (dans les 12 prochains mois)
+"ZENSEIGB" : Entreprise liée à un réseau d'enseigne lors de la 2ème enquête
+"ZEVCAB" : Evolution du Chiffre d'Affaires lors de la 2ème enquête
+"ZFORMATA" : Formation particulière pour la réalisation du projet
+"ZFRANCHA" : Lien à un réseau d'enseigne êtes-vous lié à un réseau d'enseigne ?
+"ZGEOCLIA" "ZGEOCLIB" : Origine géographique clientèle
+
+"ZINFOA" : Utilisation d'un micro-ordinateur dans l'entreprise
+"ZINV01B" "ZINV02B"  "ZINV03B"  "ZINV04B"  "ZINV05B"  "ZINV06B"  "ZINV07B"  "ZINV08B"  "ZINV09B"  "ZINV10B"  "ZINVB" : Domaines d'investissements lors de la 2ème enquête 
+"ZLICFB"  : Futurs licenciements (dans les 12 prochains mois)
+"ZMODB"  : Modifications importantes depuis la création, relatives à la nature de vos produits et services
+
+"ZMOTIV1A" "ZMOTIV2A" "ZMOTIV3A" "ZMOTIV4A" "ZMOTIV5A" : Première principale motivation qui a poussé la création
+
+"ZMOYENSA" : Montant des moyens nécessaires pour démarrer
+
+"ZNBCLIA" : Nombre de clients
+
+"ZNBCREA" : Nombre de créations d'entreprises précédentes
+"ZPASSEB" : Démarche vis-à-vis de l'entreprise durant ces deux dernières années
+"ZPBPRIB" : Problème principal
+"ZPOCCA1B" "ZPOCCA2B" "ZPOCCA3B" "ZPOCCA4B" "ZPOCCAB"  Emploi de personnel occasionnel
+
+"ZPREBANA" :  Sources de financement du projet : avez vous obtenu un prêt bancaire ?
+
+"ZPROCHA" : Existence d'un entourage entrepreneurial
+"ZQUALIFA" : Qualification préalable du créateur
+"ZRELATA" : Création, démarrage facilité par des relations la création et le démarrage de votre entreprise ont été facilités par des relations fournisseurs ou clients?
+"ZSATCREB" : Satisfaction concernant la création de l'entreprise lors de la 2ème enquête
+"ZSATFINB" : Satisfaction concernant le dernier exercice financier
+
+"ZSERV1B"  "ZSERV2B"  "ZSERV3B"  "ZSERV4B"  "ZSERV5B"  "ZSERV6B"  "ZSERV7B"  "ZSERV8B"  "ZSERVB" Utilisation services extérieurs payants lors de la 2ème enquête
+
+"ZSTCONB" : Utilisation services extérieurs payants lors de la 2ème enquête
+"ZSTEXEB" : Exécution de travaux de sous-traitance lors de la 2ème enquête
+
+"ZTEXPROA" :  Taille de l'entreprise pour l'expérience professionnelle
+
+"ZTRES1B"  "ZTRES2B"  "ZTRES3B"  "ZTRES4B"  "ZTRES5B"  "ZTRES6B"  "ZTRES7B"  "ZTRES8B"  "ZTRES9B"  "ZTRESB"  Moyens de gestion des besoins de trésorerie lors de la 2ème enquête
+
+
+"ZTYPCLIA" "ZTYPCLIB" : Type de clientèle en 2002/2005
+
+
+
+
+
+
+
+
+
+###########################################################################
+# SINE 2006 : Maintenant Inutile
+###########################################################################
+
 ACTPREA : activité précédente active
 AIDEA : recu aides état
 
